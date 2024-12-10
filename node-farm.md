@@ -73,3 +73,5 @@
     contoh, jika kita memiliki aplikasi web yang memiliki dua route (alur), seperti '/about' dan '/contact', maka kita perlu menulis kode yang berbeda untuk setiap route.
 
     
+
+# HTML Templating
