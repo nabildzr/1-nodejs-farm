@@ -75,3 +75,10 @@
     
 
 # HTML Templating
+
+
+
+
+# Using Modules (our own modules)
+ Kita sebenarnya dapat membuat modules kita sendiri dan mengekspor sesuatu darinya seperti misalnya sebuah function kemudian import function ini ke modules lain dan kemudian gunakan function di sana,
+
